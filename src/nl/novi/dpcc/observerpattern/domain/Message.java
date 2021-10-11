@@ -16,5 +16,4 @@ public class Message {
     public MatchEventType getMatchEventType() {
         return matchEventType;
     }
-
 }
